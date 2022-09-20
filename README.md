@@ -22,9 +22,7 @@ https://junnel308.github.io/C1-Horiseon/
 
 ## Screenshots
 
-Screen Shot 2022-09-19 at 9.46.01 PM.png
 
-Screen Shot 2022-09-19 at 9.46.14 PM.png
 
 ## Credits
 
