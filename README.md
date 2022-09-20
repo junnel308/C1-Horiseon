@@ -22,7 +22,9 @@ https://junnel308.github.io/C1-Horiseon/
 
 ## Screenshots
 
+/Users/jp/bootcamp/C1-Horiseon/assets/images/screenshot1.png
 
+/Users/jp/bootcamp/C1-Horiseon/assets/images/screenshot2.png
 
 ## Credits
 
