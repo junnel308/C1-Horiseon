@@ -16,6 +16,16 @@ Lead Generation, Brand Awareness, and Cost Management.
 The Horiseon Website Social Solutions Services, Inc provides information regarding 
 what the company is about and what do they do to help people who wanted to run a business.
 
+## URL
+
+https://junnel308.github.io/C1-Horiseon/
+
+## Screenshots
+
+Screen Shot 2022-09-19 at 9.46.01 PM.png
+
+Screen Shot 2022-09-19 at 9.46.14 PM.png
+
 ## Credits
 
 Robert Wijtman (Instructor), AskBCS Learning Assistance, Bootcamp Modules, Michael O'Sullivan, Minjoo Park
