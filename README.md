@@ -22,7 +22,7 @@ https://junnel308.github.io/C1-Horiseon/
 
 ## Screenshots
 
-<img src="./assets/images/Horiseon-Website.png" />
+<img src="./assets/images/Horiseon-Webpage.png" />
 
 ## Credits
 
